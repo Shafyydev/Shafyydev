@@ -1,78 +1,72 @@
-# Hi, I'm Shafyy
+# Shafyy — Full-Stack Developer
 
-### Full-Stack Developer | Python | Web Development | Computer Vision
+**Python | JavaScript | Web Development | Artificial Intelligence**
 
-I'm a college student and Full-Stack Developer interested in building practical software and learning how complete applications are designed, developed, and deployed.
+I am a B.Sc. Artificial Intelligence student at St. Joseph's College of Arts and Science, with an interest in software engineering, web development, and building practical software applications.
 
-I enjoy working across the **frontend, backend, databases, and application tooling** rather than focusing on only one layer of development.
+My technical interests span frontend development, backend systems, databases, and application deployment. I enjoy understanding how different components work together to create functional, maintainable, and user-oriented applications.
+
+I am focused on strengthening my programming fundamentals, improving my software engineering practices, and developing the skills required to become a proficient Full-Stack Developer.
 
 ## About Me
 
-- Full-Stack Developer building complete applications
-- Currently developing a **Face Recognition Attendance System**
-- Working with Python, Flask, JavaScript, HTML, CSS, and SQLite
-- Learning and improving my Git and GitHub workflow
-- Interested in computer vision, automation, and practical software development
+- Pursuing a B.Sc. in Artificial Intelligence (2024–2027).
+- Focused on full-stack development and software engineering.
+- Working with Python and JavaScript to develop software applications.
+- Interested in backend development, API design, and database management.
+- Exploring the integration of artificial intelligence into practical applications.
+- Developing my understanding of software architecture, version control, and application deployment.
+- Continuously improving my problem-solving, debugging, and programming skills.
 
-## What I'm Working On
+## Technical Skills
 
-### Face Recognition Attendance System
+**Programming Languages**
 
-A full-stack desktop attendance application built with:
+Python · JavaScript
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Flask
-- **Database:** SQLite, SQLAlchemy
-- **Computer Vision:** OpenCV, face_recognition, dlib
-- **Desktop:** pywebview
-- **Packaging:** PyInstaller
+**Frontend Development**
 
-The system includes:
+HTML5 · CSS · React.js
 
-- Webcam-based student registration
-- Real-time face recognition
-- Multi-frame recognition confirmation
-- Attendance management
-- Student management
-- CSV export and printable reports
-- Persistent activity history
-- Windows desktop packaging
+**Backend Development**
 
-[View the project →](https://github.com/Shafyydev/face-recognition-attendance-system)
+Node.js · Python · Flask
 
-## Tech Stack
+**Databases**
 
-### Frontend
-HTML · CSS · JavaScript
+MySQL · PostgreSQL · SQL
 
-### Backend
-Python · Flask
+**Artificial Intelligence**
 
-### Database
-SQLite · SQLAlchemy
+Artificial Intelligence · Machine Learning · Computer Vision
 
-### Computer Vision
-OpenCV · face_recognition · dlib · NumPy
+**Development and Deployment Tools**
 
-### Tools
-Git · GitHub · PyInstaller · pywebview
+Git · GitHub · Docker · Linux · CI/CD
 
-## Currently Learning
+## Areas of Interest
 
-- Git & GitHub
 - Full-Stack Development
-- Software architecture
-- Building and deploying practical applications
-- Computer vision
+- Backend Engineering and API Development
+- Database Design and Management
+- Software Architecture and Engineering Practices
+- Cloud Technologies and Application Deployment
+- Artificial Intelligence and Machine Learning Integration
 
-## Development Focus
+## Professional Development
 
-> Building real-world applications while continuously improving my full-stack development and software engineering skills.
+I am working toward becoming a well-rounded Full-Stack Developer with a strong understanding of how applications are designed, developed, integrated, and deployed.
 
-## Featured Project
+My approach emphasizes building strong fundamentals, applying technical knowledge through practical development, understanding problems at their root, and continuously improving code quality and maintainability.
 
-[![Face Recognition Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=Shafyydev&repo=face-recognition-attendance-system&theme=dark)](https://github.com/Shafyydev/face-recognition-attendance-system)
+I believe effective software engineering goes beyond learning technologies. It requires analytical thinking, sound design decisions, attention to detail, and a commitment to continuous improvement.
+
+## Contact
+
+**Email:** [shafyy.officials25@gmail.com](mailto:shafyy.officials25@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/Shafyy](https://www.linkedin.com/in/Shafyy/)
 
 ---
 
-*Building, learning, and improving one project at a time.*
+*Committed to continuous learning and the development of reliable, maintainable software.*
