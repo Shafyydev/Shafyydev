@@ -2,7 +2,7 @@
 
 **Python | JavaScript | Web Development | Artificial Intelligence**
 
-I am a B.Sc. Artificial Intelligence student at St. Joseph's College of Arts and Science, with an interest in software engineering, web development, and building practical software applications.
+I am an Artificial Intelligence student with an interest in software engineering, web development, and building practical software applications.
 
 My technical interests span frontend development, backend systems, databases, and application deployment. I enjoy understanding how different components work together to create functional, maintainable, and user-oriented applications.
 
